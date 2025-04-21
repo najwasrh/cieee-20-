@@ -62,7 +62,7 @@
 <body>
   <h1>Happy Birthday!</h1>
 
-  <iframe src="https://www.youtube.com/embed/6rM9dkV90Fs?autoplay=1&mute=1"
+  <iframe src="https://youtube.com/shorts/MyHVuGh_o3w?si=UxEr1ZXxV8ArHjeg"
           title="YouTube video player"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
